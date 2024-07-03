@@ -17,7 +17,7 @@ count (optional): Specifies the number of random image URLs to return. Default i
 Example Request
 To fetch 3 random image URLs:
 
-GET http://localhost:3000/api/images/random?count=3
+GET http://localhost:8081/api/images/random?count=3
 
 Example Response
 {
